@@ -1,2 +1,2 @@
 # Web-Scraping-Data-Analysis
- Scraping Youtube API Data and Analyzing It With Python
+ Scraping Youtube API Data and Analyzing It With Python. First you should use your Google Account to enter Google Cloud. With Google Cloud we can access Youtube Data API. You should take API Key from Google Cloud and use this key for reaching the Youtube Data API. You can get essential information about how we can use this API key and how can we request to Youtube API we learn it from , you should visit Google Developers Youtube Data page. (https://developers.google.com/youtube/documentation?hl=tr)  After that you should download  google-api-python-client to your conda enviroment.
